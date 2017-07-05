@@ -7,22 +7,22 @@ body {
 .print {
     display: block;
     margin: 0 auto;
-    width: 80%;
-    height: 80%;
+    width: 70%;
+    height: 70%;
 }
 
 .container {
     width: 35%;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 20px;
+    margin-top: 5px;
 }
 
 div.desc {
     text-align: center;
     color: #354e65;
     font-size: 18px;
-    margin-top: 15px;
+    margin-top: 10px;
     font-weight: bold;
     font-family: "Times New Roman", Times, serif;
 }
@@ -30,15 +30,15 @@ div.desc {
 #sub_container {
     display: inline-block;
     width: 100%;
-    margin-top: 15px;
+    margin-top: 10px;
     text-align: center;
     position: relative;
 }
 
 img.subprint {
-    width: 48%;
+    width: 40%;
     height: auto;
-    margin-bottom: 15px;
+    margin-bottom: 10px;
 }
 
 .subdesc {
